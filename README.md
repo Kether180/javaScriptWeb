@@ -10,7 +10,7 @@ Course material and example project for the course JavaScript for Web, September
 * [Array.forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 * [Array.filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 * [Array.find](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
-* [Examples](https://codesandbox.io/s/eloquent-rubin-wn2e9?file=/src/index.js)
+
 
 ### Select elements
 
@@ -30,7 +30,7 @@ Course material and example project for the course JavaScript for Web, September
 * [element.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
 * [Tailwind installation](https://tailwindcss.com/docs/installation#using-tailwind-via-cdn)
 * [Array.join](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
-* [Example](https://codesandbox.io/s/inspiring-wave-1m816?file=/src/index.js)
+
 
 ### Optional homework
 
@@ -46,7 +46,7 @@ Course material and example project for the course JavaScript for Web, September
 * [input.value](https://www.w3schools.com/tags/att_input_value.asp)
 * [JSON.parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 * [JSON.stringify](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
-* [Example](https://codesandbox.io/s/session-3-0vywr?file=/src/index.js)
+
 
 ### Optional homework
 
@@ -61,8 +61,8 @@ Course material and example project for the course JavaScript for Web, September
 * [localStorage.setItem](https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem)
 * [JSON.parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 * [JSON.stringify](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
-* [localStorage example](https://codesandbox.io/s/session-4-localstorage-91cwf?file=/src/index.js)
-* [Refactored friends example using localStorage](https://codesandbox.io/s/session-4-mq7vc)
+
+
 
 ### Optional homework
 
@@ -76,7 +76,7 @@ Course material and example project for the course JavaScript for Web, September
 * [Array.splice](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
 * [Array.sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 * [Select element and its change handling](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event)
-* [Example](https://codesandbox.io/s/session-5-hlwms?file=/index.html)
+
 
 ### Optional homework
 
@@ -90,7 +90,7 @@ Course material and example project for the course JavaScript for Web, September
 * [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 * [Postman](https://www.postman.com/downloads/)
 * [CatFact API](https://catfact.ninja/)
-* [Example](https://codesandbox.io/s/session-6-2sor7?file=/src/index.js)
+
 
 ### Optional homework
 
