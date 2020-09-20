@@ -1,6 +1,6 @@
 # JavaScript for Web September 2020
 
-Course material and example project for the course JavaScript for Web, September 2020.
+Example project
 
 ## Session 1
 
